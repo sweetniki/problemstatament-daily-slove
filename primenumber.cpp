@@ -8,7 +8,7 @@ int main()
      int num;
      cin>>num;
      int count=0;
-   for(int i=2;i<=num/2;i++)
+   for(int i=2;i<=num/i;i++)
         {
 	         if(num%2==0)
 	        	 count++;
